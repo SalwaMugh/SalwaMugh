@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World :earth_africa:
 
 🌱 I’m currently learning a lot of stuff related to web design and development.<br/>
 🔭 In addition, I’m working on css side projects.<br/>

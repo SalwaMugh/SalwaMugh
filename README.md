@@ -10,6 +10,7 @@
 <a href="#"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="#"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="#"><img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTs_UzjeOC74sYTYHZb1Bhtm2_KXSiJ1xZCYA&usqp=CAU" /></a>
+<a href="#"><img align="left" alt="Sass" width="26px" src="https://miro.medium.com/max/683/1*HFYKWq92BcXJIdata7d-JQ.png" /></a>
 <a href="#"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="#"><img align="left" alt="Postgresql" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /></a>
 <a href="#"><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>

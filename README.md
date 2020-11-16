@@ -1,7 +1,7 @@
 ### Hello World :earth_africa:
 
 🌱 I’m currently learning a lot of stuff related to web design and development.<br/>
-🔭 In addition, I’m working on css side projects.<br/>
+🔭 In addition, I’m working on css/js awesome side projects.<br/>
 👯 I'll be looking for a full time javascript developer jop at the beginning of 2021.<br/>
 
 ### Languages/Frameworks:

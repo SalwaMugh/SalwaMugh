@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning a lot of stuff related to web design and development.
-
-🔭 I’m currently working on css side projects.
-
-👯 I'll be looking to a full time jop on 2021.
+🌱 I’m currently learning a lot of stuff related to web design and development.<br/>
+🔭 In addition, I’m working on css side projects.<br/>
+👯 I'll be looking for a full time javascript developer jop at the beginning of 2021.<br/>
 
 ### Languages/Frameworks:
 

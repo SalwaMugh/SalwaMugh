@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning a lot of stuff related to web design and development.
+
+🔭 I’m currently working on css side projects.
+
+👯 I'll be looking to a full time jop on 2021.
+
 ### Languages/Frameworks:
 
 <a href="#"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>

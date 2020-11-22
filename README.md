@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning a lot of stuff related to web design and development.<br/>
 🔭 In addition, I’m working on css/js awesome side projects.<br/>
-👯 I'll be looking for a full time javascript developer jop at the mid of 2021.<br/>
+<!-- 👯 I'll be looking for a full time javascript developer jop at the mid of 2021.<br/> -->
 
 ### Languages/Frameworks:
 

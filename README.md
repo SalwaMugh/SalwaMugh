@@ -1,10 +1,13 @@
 ### Hello World :earth_africa:
-
-🌱 I’m currently learning a lot of stuff related to web design and development.<br/>
-🔭 In addition, I’m working on css/js awesome side projects.<br/>
+.<br/>
+.<br/>
+.<br/>
+.<br/>
+🌱 Growing.<br/>
+<!-- 🔭 In addition, I’m working on css/js awesome side projects.<br/> -->
 <!-- 👯 I'll be looking for a full time javascript developer jop at the mid of 2021.<br/> -->
 
-### Languages/Frameworks:
+<!-- ### Languages/Frameworks:
 
 <a href="#"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="#"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -16,7 +19,7 @@
 <a href="#"><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
 <a href="#"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
 <a href="#"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
-
+-->
 
 <br/><br/><br/>   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=salwamugh&repo=SalwaMugh&countColorcountColor&countColor=%23FB6E7F)
 <!--
